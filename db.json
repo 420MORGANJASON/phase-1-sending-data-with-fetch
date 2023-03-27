@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,95 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "ali",
+      "dogBreed": "bulldog",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 7
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 8
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 9
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 10
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 11
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 12
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 13
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 14
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 15
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 16
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 17
+    },
+    {
+      "dogName": "ali",
+      "dogBreed": "bulldog",
+      "id": 18
+    },
+    {
+      "userName": "Morgan",
+      "userEmail": "420morganjason@gmail.com",
+      "id": 19
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -22,9 +109,11 @@
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
